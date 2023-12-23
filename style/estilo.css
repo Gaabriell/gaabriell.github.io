@@ -1,0 +1,62 @@
+body{ 
+    width: 900px;
+    margin: 0 auto ;
+    background-color:goldenrod;
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(0, 0, 0);
+}
+
+html {
+    font-size: 10px;
+    font-family: 'Preahvihear', sans-serif;
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    margin: 50;
+    padding: 20px 0;
+    color:cornsilk;
+    text-shadow: 3px 3px 1px black;
+}
+
+h2{
+    text-align: center;
+    font-size: 40px;
+
+}
+
+p,
+li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+html{
+    background-color:gray;
+}
+
+img {  
+    display:block;
+    margin: 0 auto;
+    border-width: 30px;
+    border-style: solid;
+    background-color:blanchedalmond;
+    
+}
+
+ul,
+h6,
+li{
+    text-align:center;
+    list-style-position:inside;
+    line-height:4;
+    letter-spacing: 15px;
+
+}
+P{
+    text-align: center;
+    font-size: 19px;
+}
